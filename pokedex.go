@@ -14,11 +14,13 @@ const (
 
 var (
     // Rattata
-    // Pidgey
+    // Pidgey + Pidgeotto
+    // Spearow
     // Weedle
     // Caterpie
     // Zubat
-    COMMON_POKEMON []int = []int{19, 16, 13, 10, 41}
+    //Drowzee
+    COMMON_POKEMON []int = []int{21, 19, 16, 17, 13, 10, 41, 96}
 )
 
 type PokedexPokemon struct {
